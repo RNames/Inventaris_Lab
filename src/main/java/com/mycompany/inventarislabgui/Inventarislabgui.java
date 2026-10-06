@@ -8,7 +8,7 @@ package com.mycompany.inventarislabgui;
  *
  * @author ASUS
  */
-public class Inventarislabgui {
+public class InventarisLabGUI {
 
     public static void main(String[] args) {
         System.out.println("Hello World!");
